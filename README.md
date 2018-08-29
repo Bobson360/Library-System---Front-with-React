@@ -1,6 +1,8 @@
 ## Istalação
 
-* Clone em seu computador
+* Clone em seu computador com o seguinte código
+
+**$ git clone https://github.com/Bobson360/Library-System---Front-with-React.git**
 
 * Entre na pasta pelo termminal e execute a linha 
 
