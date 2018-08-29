@@ -1,4 +1,4 @@
-## Istalação
+## Instalação
 
 * Clone em seu computador com o seguinte código
 
