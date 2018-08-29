@@ -4,8 +4,8 @@
 
 * Entre na pasta pelo termminal e execute a linha 
 
-  ** $ npm install**
+  **$ npm install**
 
 * Espere as dependências serem baixadas e rode o comando 
 
-  ** $ npm start**
+  **$ npm start**
